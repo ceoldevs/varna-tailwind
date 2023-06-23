@@ -1,6 +1,6 @@
 {
     "name": "@ceol/varna-tailwind",
-    "version": "0.1.0",
+    "version": "1.0.1",
     "main": "./lib/colors.js",
     "author": "Sri Meher Chaitanya Varma Nadimpalli <meherchaitanya18802@gmail.com> (https://smc181002.me)",
     "contributors": [ ],
@@ -13,9 +13,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ceoldevs/varna.git"
+        "url": "https://github.com/ceoldevs/varna-tailwind.git"
     },
-    "type": "module",
+    "type": "commonjs",
     "publishConfig": {
         "access": "public"
     }
