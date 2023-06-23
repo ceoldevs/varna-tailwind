@@ -1,6 +1,6 @@
 {
     "name": "@ceol/varna-tailwind",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "./lib/colors.js",
     "author": "Sri Meher Chaitanya Varma Nadimpalli <meherchaitanya18802@gmail.com> (https://smc181002.me)",
     "contributors": [ ],
